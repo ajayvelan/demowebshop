@@ -17,7 +17,7 @@ public class ReportJava {
 		driver.manage().window().maximize();
 		test.log(LogStatus.INFO, "Chrome browser maximized");
 		driver.get("https://demowebshop.tricentis.com/desktops");
-		
+		//ajay da
 		
 	}
 
